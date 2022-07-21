@@ -1,4 +1,4 @@
-time,demand(kW)
+time,demand(kWh)
 0:00,600
 0:30,600
 1:00,600
